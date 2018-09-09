@@ -14,8 +14,5 @@ public class Fib {
 			return fiblist;
 			}
 		}
-	public static void main (String[] args) {
-		System.out.println(fibGen(100));
-	}
 }
 
